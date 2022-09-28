@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QkVmffB//hEYQ6ex05VM4Aqi/cF77zrJehRn6mookCYUqPWulOZGr6JoHZPSv2K79ofDCCCgEiomu9fELA0vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arvyd\\Desktop\\Library\\Library\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arvyd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

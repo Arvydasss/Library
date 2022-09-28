@@ -1,0 +1,12 @@
+[
+    {
+      "Nickname": "user",
+      "Password": "user",
+      "IsAdmin": false
+    },
+    {
+      "Nickname": "admin",
+      "Password": "admin",
+      "IsAdmin": true
+    }
+  ]

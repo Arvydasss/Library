@@ -1,0 +1,122 @@
+[
+  {
+    "Title": "Book of minds",
+    "Author": "John Legend",
+    "Publisher": "Paul Wesley",
+    "Date": "24/04/2012",
+    "Genre": "Romance",
+    "ISBN": "12",
+    "Available": true,
+    "Reserved": true
+  },
+  {
+    "Title": "Book of elegance",
+    "Author": "John Wesley",
+    "Publisher": "Paul Wesley",
+    "Date": "24/04/2014",
+    "Genre": "Romance",
+    "ISBN": "123",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Book of minds 2",
+    "Author": "John Legend",
+    "Publisher": "Paul Wesley",
+    "Date": "24/04/2017",
+    "Genre": "Romance",
+    "ISBN": "1234",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Book of minds 3",
+    "Author": "John Legend",
+    "Publisher": "Paul Wesley",
+    "Date": "24/04/2019",
+    "Genre": "Romance",
+    "ISBN": "12345",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Technology",
+    "Author": "Air Iceberg",
+    "Publisher": "John Speed",
+    "Date": "24/05/2012",
+    "Genre": "IT",
+    "ISBN": "23456",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Information flow2",
+    "Author": "Diane Design",
+    "Publisher": "Helper",
+    "Date": "24/04/2017",
+    "Genre": "IT",
+    "ISBN": "34567",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Information flow3",
+    "Author": "Diane Design",
+    "Publisher": "Helper",
+    "Date": "24/04/2017",
+    "Genre": "IT",
+    "ISBN": "4567",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Information flow4",
+    "Author": "Diane Design",
+    "Publisher": "Helper",
+    "Date": "24/04/2017",
+    "Genre": "IT",
+    "ISBN": "567",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Information flow5",
+    "Author": "Diane Design",
+    "Publisher": "Helper",
+    "Date": "24/04/2017",
+    "Genre": "IT",
+    "ISBN": "67",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Information flow6",
+    "Author": "Diane Design",
+    "Publisher": "Helper",
+    "Date": "24/04/2017",
+    "Genre": "IT",
+    "ISBN": "76543",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Your health",
+    "Author": "Joseph Murphy",
+    "Publisher": "Alma Litera",
+    "Date": "24/10/2015",
+    "Genre": "Health",
+    "ISBN": "789456",
+    "Available": true,
+    "Reserved": false
+  },
+  {
+    "Title": "Book of health 2",
+    "Author": "Joseph Murphy",
+    "Publisher": "Alma Litera",
+    "Date": "24/10/2018",
+    "Genre": "Health",
+    "ISBN": "5465464",
+    "Available": true,
+    "Reserved": false
+  }
+]
